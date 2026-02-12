@@ -1,0 +1,23 @@
+# Data — multi-GB SCID binary files
+data/
+
+# Generated charts
+charts/
+
+# Personal strategies
+strategies/
+
+# Rust build output
+target/
+
+# Python virtual environment
+.venv/
+
+# Python bytecache
+__pycache__/
+
+# Compiled extension modules
+*.so
+
+# macOS metadata
+.DS_Store
